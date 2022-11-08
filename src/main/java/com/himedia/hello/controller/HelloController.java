@@ -8,6 +8,6 @@ public class HelloController {
 
     @RequestMapping("/fsdajkslsdfzjk")
     public String gsefgeg(){
-        return "Hi";
+        return "Hi2";
     }
 }
